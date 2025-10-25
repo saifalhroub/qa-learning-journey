@@ -1,4 +1,4 @@
-# qa-learning-journey
+# Qa-Learning-Journey
 ## تابع Unit Testing
 
 ## 🧪 الخطوة 4) التشغيل محلياً ثم في CI (Run Locally & in CI)
