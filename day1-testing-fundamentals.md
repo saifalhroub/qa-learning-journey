@@ -16,4 +16,8 @@
 
 - Understood how to apply testing principles in real projects – through risk-based testing, early testing, automation, and effective communication with stakeholders.
 
+- Learned about SDLC (Software Development Life Cycle) – the process that defines all stages of software creation from requirement gathering to maintenance.
+
+- Learned about STLC (Software Testing Life Cycle) – the structured sequence of QA activities from test planning to test closure, aligned with SDLC phases
+
 - Studied the V-Model in Software Testing – understanding verification and validation phases, their relationships, pros and cons, and when to use it.
