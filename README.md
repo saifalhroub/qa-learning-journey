@@ -49,8 +49,7 @@
 
 ---
 
-> تحب أضيف كمان فقرة توضح الفرق بين **Mock** و **Stub** بلغة Python وبمثال مصوّر بسيط؟  
-> ممكن تكون ممتازة لتكمل هذا القسم في README.
+.
 > ## 🧠 What are the Different Unit Testing Techniques?
 
 Unit tests are most effective when they mix **smart test design** with **sensible coverage goals**.  
