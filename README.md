@@ -165,6 +165,7 @@ def test_returns_user_with_stub(monkeypatch):
     assert user["name"] == "Alice"
 
 <div dir="rtl">
+```
 
 ## 🧰 أكثر أدوات اختبار الوحدات (Unit Testing Tools) شيوعاً
 
