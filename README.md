@@ -23,6 +23,12 @@
 </p>
 
 - [🔹 اختبار الوحدة- Unit Testing](./Unit_Testing_0_1.md)
+- [🔹 اختبار التكامل- Integration Testing](./Integration_Testing_0_2.md)
+- [🔹 اختبار النظام- System Testing](./System_Testing_0_3.md)
+- [🔹 اختبار رضى المستخدم- User Acceptance Testing](./User_Acceptance_Testing_0_4.md)
+
+
+
 
 
 ---
