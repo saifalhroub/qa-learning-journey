@@ -22,7 +22,7 @@
 كل قسم يحتوي على ملف مستقل يمكن الضغط عليه للانتقال إليه مباشرة:
 </p>
 
-<h4 align="rtl";> Validation Phase CH1</h4>
+<h4 align="right";> Validation Phase CH1</h4>
 
 
 - [🔹 اختبار الوحدة- Unit Testing](./Unit_Testing_0_1.md)
