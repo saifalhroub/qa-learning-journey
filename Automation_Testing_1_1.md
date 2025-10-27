@@ -1,9 +1,9 @@
 <h1 align ="center";> Automation Testing Tutorial</h1>
-<div align="right";>
+<div dir="rtl" align="right";>
 
 
 ✨ **Key Takeaway:**  
-اختبار الأتمتة (Automation Testing) يسرّع تسليم البرمجيات عبر استبدال الاختبارات اليدوية بأدوات مثل **Selenium**.  
+اختبار الأتمتة (Automation Testing) يسرّع تسليم البرمجيات عبر استبدال الاختبارات اليدوية بأدوات مثل Selenium.  
 يزيد الدقة، ويوسّع التغطية، ويكشف الأخطاء مبكرًا — وهو أمر حاسم لفرق **Agile** التي تسعى لإصدارات أسرع وأكثر جودة.
 
 ---
