@@ -47,7 +47,7 @@
 
 **الأنشطة الأساسية:**
 - فهم المتطلبات بالكامل.  
-- إنشاء مصفوفة التتبع ** (Requirement Traceability Matrix)**. [RTM](./RTM.md)
+- إنشاء مصفوفة التتبع ** (Requirement Traceability Matrix)** [RTM](./RTM.md)
 - تحديد أولويات الاختبار والمخاطر المحتملة.  
 
 **المخرجات:**  
