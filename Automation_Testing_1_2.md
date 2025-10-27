@@ -101,6 +101,8 @@
 ##أمثلة عليهم : (https://www.guru99.com/automation-testing.html)
 
 ---
+## كيف تختار الاطار المناسب 
+(https://www.guru99.com/images/automation-testing-framework.png)
 
 ## 🧠 أفضل الممارسات (Best Practices)
 
