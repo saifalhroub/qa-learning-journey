@@ -100,10 +100,4 @@
 
 ---
 
-## 🔗 مقالات ذات صلة
-- [What is Regression Testing?](#)
-- [What is Compatibility Testing?](#)
-- [Agile Methodology in Software Testing](#)
-- [Test Plan vs Test Strategy – Difference Between Them](#)
-
 ---
