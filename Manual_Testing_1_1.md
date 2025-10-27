@@ -177,12 +177,6 @@
 
 ---
 
-## 🔗 **مقالات ذات صلة**
-- [What is Static Testing? Software Testing Techniques](#)
-- [Best Software Testing Certifications in Demand for QA Testers](#)
-- [Fuzz Testing (Fuzzing) Tutorial](#)
-- [Do Testers have to Write Code?](#)
-
 </div>
 
 
