@@ -1,7 +1,5 @@
 <h1 align="center">Manual Testing Tutorial</h1> 
-# 🧪 Manual Testing Tutorial  
-**By:** Thomas Hamilton  
-**Updated:** October 3, 2025  
+
 
 ---
 
