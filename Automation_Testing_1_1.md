@@ -1,5 +1,5 @@
 <h1 align ="center";> Automation Testing Tutorial</h1>
-<div dir="rtl">
+<div dir="rtl" align="right";>
 
 
 ✨ **Key Takeaway:**  
