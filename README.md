@@ -25,18 +25,18 @@
 <h4 align="right";> Testing Fundamentals </h4>
 
 **الدروس السابقة مكتوب على Note خارجي وهذا استكمال لها ...**
-- [🔹 اختبار الوحدة- Unit Testing](./Unit_Testing_0_1.md)
-- [🔹 اختبار التكامل- Integration Testing](./Integration_Testing_0_2.md)
-- [🔹 اختبار النظام- System Testing](./System_Testing_0_3.md)
-- [🔹 اختبار رضى المستخدم- User Acceptance Testing](./User_Acceptance_Testing_0_4.md)
+- [🔹 دورة حياة اختبارات البرمجيات - STLC](./STLC_1_0.md)
 
 
 <h4 align="right";> Types Of Testing </h4>
 
-- [🔹 دورة حياة اختبارات البرمجيات - STLC](./STLC_1_0.md)
 - [🔹 الفحص اليدوي - Manual Testing](./Manual_Testing_1_1.md)
 - [🔹 فحص الأتمتة - Automation Test](./Automation_Testing_1_2.md)
 - [🔹 الفرق بين الفحص اليديوي والأتمتة - Difference between Automation & Manual Testing](./Difference_Between_Manual_and_Automation_Testing_1_3.md)
+- [🔹 اختبار الوحدة- Unit Testing](./Unit_Testing_0_1.md)
+- [🔹 اختبار التكامل- Integration Testing](./Integration_Testing_0_2.md)
+- [🔹 اختبار النظام- System Testing](./System_Testing_0_3.md)
+- [🔹 اختبار رضى المستخدم- User Acceptance Testing](./User_Acceptance_Testing_0_4.md)
 
 
 
