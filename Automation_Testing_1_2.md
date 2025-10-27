@@ -94,9 +94,9 @@
 1. تسجّل الخطوات وتعيد تشغيلها تلقائيًا — **Linear / Record & Playback Framework**   
 2. تقسيم التطبيق إلى وحدات مستقلة (مثل LEGO) — **Modular Framework**   
 3. فصل البيانات عن منطق الاختبار — **Data-Driven Framework**   
-4.  كتابة الاختبارات بكلمات مفتاحية مفهومة لغير المبرمجين — **Keyword-Driven Framework**  
+4. كتابة الاختبارات بكلمات مفتاحية مفهومة لغير المبرمجين — **Keyword-Driven Framework**  
 5. دمج أكثر من نوع للاستفادة من جميع المزايا — **Hybrid Framework**    
-6.كتابة الاختبارات بلغة بشرية مثل **BDD (Behavior-Driven Development)** —  "Given / When / Then".
+6. كتابة الاختبارات بلغة بشرية مثل **BDD (Behavior-Driven Development)** —  "Given / When / Then".
 
 ##أمثلة عليهم : (https://www.guru99.com/automation-testing.html)
 
