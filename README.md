@@ -70,6 +70,6 @@
 <div align="center";>
   
   ## Refrences
-  - Content Summarized and Inspired by [Guru99] (htttps://www.guru99.com/)
-  - Content Summarized Using [ChatGPT] (https://www.chatgpt.com/) 
+  - Content Summarized and Inspired by **Guru99** (htttps://www.guru99.com/)
+  - Content Summarized Using **ChatGPT** (https://www.chatgpt.com/) 
 </div>
