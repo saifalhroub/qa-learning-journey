@@ -22,7 +22,7 @@
 كل قسم يحتوي على ملف مستقل يمكن الضغط عليه للانتقال إليه مباشرة:
 </p>
 
-<h4 align="right";> Validation Phase CH1</h4>
+<h4 align="right";> Validation Phase </h4>
 
 
 - [🔹 اختبار الوحدة- Unit Testing](./Unit_Testing_0_1.md)
@@ -30,6 +30,10 @@
 - [🔹 اختبار النظام- System Testing](./System_Testing_0_3.md)
 - [🔹 اختبار رضى المستخدم- User Acceptance Testing](./User_Acceptance_Testing_0_4.md)
 
+
+<h4 align="right";> Types Of Testing </h4>
+
+- [🔹 دورة حياة اختبارات المشروع- STLC](./STLC_1_0.md)
 
 
 
