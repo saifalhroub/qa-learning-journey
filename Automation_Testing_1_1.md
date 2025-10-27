@@ -1,10 +1,6 @@
 <h1 align ="center";> Automation Testing Tutorial</h1>
 <div dir="rtl">
 
-# 🤖 Automation Testing  
-**By:** Thomas Hamilton  
-**Reviewed By:** Yumani Ranaweera  
-**Updated:** October 8, 2025  
 
 ✨ **Key Takeaway:**  
 اختبار الأتمتة (Automation Testing) يسرّع تسليم البرمجيات عبر استبدال الاختبارات اليدوية بأدوات مثل **Selenium**.  
