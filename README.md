@@ -24,7 +24,7 @@
 
 <h4 align="right";> Testing Fundamentals </h4>
 
-
+**الدروس السابقة مكتوب على Note خارجي وهذا استكمال لها ...
 - [🔹 اختبار الوحدة- Unit Testing](./Unit_Testing_0_1.md)
 - [🔹 اختبار التكامل- Integration Testing](./Integration_Testing_0_2.md)
 - [🔹 اختبار النظام- System Testing](./System_Testing_0_3.md)
