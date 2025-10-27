@@ -96,6 +96,8 @@
 5. دمج أكثر من نوع للاستفادة من جميع المزايا — **Hybrid Framework**    
 6.كتابة الاختبارات بلغة بشرية مثل **BDD (Behavior-Driven Development)** —  "Given / When / Then".
 
+##أمثلة عليهم : (https://www.guru99.com/automation-testing.html)
+
 ---
 
 ## 🧠 أفضل الممارسات (Best Practices)
