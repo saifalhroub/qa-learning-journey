@@ -39,6 +39,7 @@
 - [🔹 اختبار رضى المستخدم- User Acceptance Testing](./User_Acceptance_Testing_0_4.md)
 - [🔹 مقارنة بين - Sanity Vs Smoke Testing](./Sanity_VS_Smoke_Testing.md)
 - [🔹 مقارنة بي - Regression Testing](./Regression_Testing.md)
+- [🔹 الفحص غبر الوظيفي - Non Functional Testing](./Non_Funtional_Testing.md)
 
 
 
