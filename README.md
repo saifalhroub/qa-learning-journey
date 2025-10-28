@@ -38,9 +38,11 @@
 - [🔹 اختبار النظام- System Testing](./System_Testing_0_3.md)
 - [🔹 اختبار رضى المستخدم- User Acceptance Testing](./User_Acceptance_Testing_0_4.md)
 - [🔹 مقارنة بين - Sanity Vs Smoke Testing](./Sanity_VS_Smoke_Testing.md)
-- [🔹 مقارنة بي - Regression Testing](./Regression_Testing.md)
+- [🔹 مقارنة بين - Regression Testing](./Regression_Testing.md)
 - [🔹 الفحص غبر الوظيفي - Non Functional Testing](./Non_Functional_Testing.md)
 
+<h4 align="right";> Test Documentation </h4>
+- [🔹 توثيق الاختبارات - Test Documentation](./Test_Documentation.md)
 
 
 
