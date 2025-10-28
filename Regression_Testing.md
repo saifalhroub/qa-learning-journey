@@ -1,8 +1,4 @@
 # 🧩 Regression Testing  
-**المصدر:** [Guru99 – Regression Testing](https://www.guru99.com/regression-testing.html)  
-**تاريخ التحديث:** 13 مايو 2025  
-**بواسطة:** Thomas Hamilton  
-**مراجعة:** Yumani Ranaweera  
 
 ---
 
