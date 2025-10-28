@@ -1,6 +1,5 @@
-# Test Documentation
+<h1 align="center">Test Documentation</h1>
 
-**Author:** Thomas Hamilton — Guru99
 
 ---
 
