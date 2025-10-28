@@ -80,7 +80,7 @@
 2. **Non-Functional Testing**  
 3. **Maintenance Testing**
 
-   (https://www.guru99.com/images/1-2015/012715_0453_NonFunction4.png)
+   <img src="https://www.guru99.com/images/1-2015/012715_0453_NonFunction4.png)">
 
 تحت كل نوع توجد مستويات متعددة من الاختبار، ويختلف التصنيف بين المصادر،  
 لكن الفكرة الأساسية أن الأنواع تُستخدم حسب **طبيعة المشروع ونطاقه**.
