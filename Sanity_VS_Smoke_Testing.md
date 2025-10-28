@@ -1,7 +1,5 @@
 # 🧪 Sanity Testing vs. Smoke Testing  
-**المصدر:** [Guru99 – Sanity Testing Vs. Smoke Testing](https://www.guru99.com/smoke-sanity-testing-difference.html)  
-**تاريخ التحديث:** 21 نوفمبر 2024  
-**بواسطة:** Thomas Hamilton  
+
 
 ---
 
