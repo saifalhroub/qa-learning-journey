@@ -37,7 +37,8 @@
 - [🔹 اختبار التكامل- Integration Testing](./Integration_Testing_0_2.md)
 - [🔹 اختبار النظام- System Testing](./System_Testing_0_3.md)
 - [🔹 اختبار رضى المستخدم- User Acceptance Testing](./User_Acceptance_Testing_0_4.md)
-- [🔹 مقارنة بين Sanity Vs Smoke Testing](./Sanity_VS_Smoke_Testing.md)
+- [🔹 مقارنة بين - Sanity Vs Smoke Testing](./Sanity_VS_Smoke_Testing.md)
+- [🔹 مقارنة بي - Regression Testing](./Regression_Testing.md)
 
 
 
