@@ -50,6 +50,11 @@
 - [🔹 مصفوفة تتبع المتطلبات - Requirment Tracibility Matrix](./RTM.md).
 - [🔹 بيانات الإختبار - Test Data](./Test_Data.md).
 - [🔹 نموذج حالة اختبار - Test Case Template](./Test_Case_Template.md).
+  
+
+<h4 align="right";> Test Techniques </h4>
+
+- [🔹 حالات الاختبار - Test Techniques](./Software_Testing_Techniques.md).
 
 
 ---
