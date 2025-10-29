@@ -51,14 +51,6 @@
 | **Requirement Type and Description** | نوع ووصف المتطلب (مثلاً: وظيفي – Login Feature) |
 | **Test Cases with Status** | أرقام التست كيسز اللي تختبر هذا المتطلب + حالتها (Pass / Fail) |
 
-  <img src="https://www.guru99.com/images/traceability-matrix-status.png">
-
-- أعلاه مثال على مصفوفة تتبع المتطلبات (Requirement Traceability Matrix).
-
-لكن في المشاريع البرمجية الفعلية، تحتوي مصفوفة التتبع عادةً على عدد أكبر من المعايير (Parameters) من المثال الموضح.
-
-  <img src="https://www.guru99.com/images/1/requirements-traceability-matrix002.png">
-
 ---
 
 ## 🧮 مثال على Requirement Traceability Matrix:
@@ -68,6 +60,7 @@
 | R1 | المستخدم يستطيع تسجيل الدخول | TC01, TC02 | ✅ Pass |
 | R2 | المستخدم يستطيع إعادة تعيين كلمة المرور | TC03 | ❌ Fail |
 | R3 | المستخدم يستطيع تسجيل الخروج | TC04 | ✅ Pass |
+  <img src="https://www.guru99.com/images/traceability-matrix-status.png">
 
 ---
 
@@ -80,6 +73,7 @@
 | **Execution Status** | حالة تنفيذ الاختبار (نفّذناه ولا لسه) |
 | **UAT Status** | لو في اختبارات **User Acceptance Testing**، نضيف حالتها هون |
 | **Defect ID / Bug Status** | نربط كل متطلب بالأخطاء (Bugs) اللي ظهرت أثناء الاختبار |
+  <img src="https://www.guru99.com/images/1/requirements-traceability-matrix002.png">
 
 ---
 
