@@ -44,6 +44,8 @@
 ثم قمنا بتحليله وتحويله إلى **شروط اختبار (Test Conditions)**.  
 هذه الخطوة تُعتبر جوهر عملية **Test Analysis** في كل مرحلة من مراحل نموذج **V-Model**،  
 حيث يتم إنشاء **Test Plans** و**Test Cases** بناءً على المستندات المتوفرة في كل مرحلة.
+<img src="(https://www.guru99.com/images/1/test-analysis-v-model.png)">
+
 
 ---
 
