@@ -55,6 +55,7 @@
 <h4 align="right";> Test Techniques </h4>
 
 - [🔹 حالات الاختبار - Test Techniques](./Software_Testing_Techniques.md).
+- [🔹 تحليل القيم الحدية وتقسيم التكافؤ - BVA & EPT](./BVA_&_EPT.md).
 
 
 ---
