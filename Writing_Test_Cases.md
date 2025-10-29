@@ -14,7 +14,7 @@
 
 ## 🎯 مثال: فحص وظيفة تسجيل الدخول (Login Functionality)
 
-<img src="https://www.guru99.com/images/1/test-cases_01.png">
+<img src="https://www.blabla.com/images/1/test-cases_01.png">
 خلينا نكتب Test Case حقيقي خطوة بخطوة.
 
 ---
