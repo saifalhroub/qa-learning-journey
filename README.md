@@ -48,7 +48,7 @@
 - [🔹 كتابة حالات اختبار - Writing Test Cases](./Writing_Test_Cases.md).
 - [🔹 تحلبل الاختبار - Test Analysis](./Test_Analysis.md).
 - [🔹 مصفوفة تتبع المتطلبات - Requirment Tracibility Matrix](./RTM.md).
-- [🔹 اختبار البيانات - Test Data](./Test_Data.md).
+- [🔹 بيانات الإختبار - Test Data](./Test_Data.md).
 
 
 ---
