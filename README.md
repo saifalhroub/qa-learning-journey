@@ -49,6 +49,7 @@
 - [🔹 تحلبل الاختبار - Test Analysis](./Test_Analysis.md).
 - [🔹 مصفوفة تتبع المتطلبات - Requirment Tracibility Matrix](./RTM.md).
 - [🔹 بيانات الإختبار - Test Data](./Test_Data.md).
+- [🔹 نموذج حالة اختبار - Test Case Template](./Test_Case_Template.md).
 
 
 ---
