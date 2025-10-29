@@ -64,7 +64,7 @@
 ### مثال 1: تطبيق eCommerce
 **Scenario 1:** اختبار وظيفة تسجيل الدخول
 
-<img src="https://www.guru99.com/images/1/test_scenario_01.png" align="center">
+<img src="https://www.guru99.com/images/1/test_scenario_01.png" >
 
 
 - تحقق من سلوك النظام عند إدخال البريد وكلمة المرور الصحيحة.  
@@ -75,19 +75,19 @@
 
 **Scenario 2:** اختبار وظيفة البحث عن المنتجات  
 
-<img src="https://www.guru99.com/images/1/test_scenario_02.png" align="center">
+<img src="https://www.guru99.com/images/1/test_scenario_02.png">
 
 **Scenario 3:** اختبار صفحة وصف المنتج  
 
-<img src="https://www.guru99.com/images/1/test_scenario_03.png" align="center">
+<img src="https://www.guru99.com/images/1/test_scenario_03.png">
 
 **Scenario 4:** اختبار وظيفة الدفع  
 
-<img src="https://www.guru99.com/images/1/test_scenario_04.png" align="center">
+<img src="https://www.guru99.com/images/1/test_scenario_04.png">
 
 **Scenario 5:** اختبار سجل الطلبات  
 
-<img src="https://www.guru99.com/images/1/test_scenario_05.png" align="center">
+<img src="https://www.guru99.com/images/1/test_scenario_05.png">
 
 **سيناريوهات إضافية:**  
 - سلوك الصفحة الرئيسية للعملاء العائدين.  
