@@ -61,9 +61,7 @@ Unit tests are most effective when they mix **smart test design** with **sensibl
 
 ---
 
-## 🎯 Main Unit Testing Techniques
 
-تقنيات اختبار الوحدات عادةً تُقسم إلى ثلاثة أنواع رئيسية:
 
 
 ---
