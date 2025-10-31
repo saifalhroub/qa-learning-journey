@@ -81,17 +81,12 @@
 
 
 <img src="https://www.guru99.com/images/3-2016/032316_0620_Equivalence5.png">
+
 ### في تحليل القيم الحدّية:
 - نختبر القيم **0، 1، 10، 11** لأنها تمثل الحدود بين المجموعات.
 
 
-
-
 <img src="https://www.guru99.com/images/3-2016/032316_0620_Equivalence6.png">
-
-
-
-
 
 
 ---
