@@ -58,6 +58,8 @@
 - [🔹 تحليل القيم الحدية وتقسيم التكافؤ - BVA & EPT](./BVA_&_EPT.md).
 - [🔹 اختبار جدول القرارات - Decision Tabel Testing](./Decision_Table_Testing.md).
 - [🔹 اختبار الانتقال بين الحالات - State Transition Testing](./State_Transition_Testing.md).
+- [🔹 اختبار حالة الاستخدام - Use Case Testing](./Use_Case_Testing.md).
+
 
 ---
 
