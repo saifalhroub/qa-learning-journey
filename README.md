@@ -57,7 +57,7 @@
 - [🔹 حالات الاختبار - Test Techniques](./Software_Testing_Techniques.md).
 - [🔹 تحليل القيم الحدية وتقسيم التكافؤ - BVA & EPT](./BVA_&_EPT.md).
 - [🔹 اختبار جدول القرارات - Decision Tabel Testing](./Decision_Table_Testing.md).
-
+- [🔹 اختبار الانتقال بين الحالات - State Transition Testing](./State_Transition_Testing.md).
 
 ---
 
