@@ -60,6 +60,9 @@
 - [🔹 اختبار الانتقال بين الحالات - State Transition Testing](./State_Transition_Testing.md).
 - [🔹 اختبار حالة الاستخدام - Use Case Testing](./Use_Case_Testing.md).
 
+<h4 align="right";> Test Management & Control </h4>
+
+- [🔹 تقنية تثدير اختبار البرمجيات - Software Test Estimation Techniques](./Software_Test_Estimation_Technique.md).
 
 ---
 
