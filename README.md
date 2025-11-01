@@ -62,7 +62,7 @@
 
 <h4 align="right";> Test Management & Control </h4>
 
-- [🔹 تقنية تثدير اختبار البرمجيات - Software Test Estimation Techniques](./Software_Estimation_Test_Technique.md).
+- [🔹 تقنية تثدير اختبار البرمجيات - Software Test Estimation Techniques](./Software_Test_Estimation_Techniques.md).
 
 ---
 
