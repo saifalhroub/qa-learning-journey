@@ -63,6 +63,7 @@
 <h4 align="right";> Test Management & Control </h4>
 
 - [🔹 تقنية تثدير اختبار البرمجيات - Software Test Estimation Techniques](./Software_Test_Estimation_Techniques.md).
+- [🔹 انشاء خطة اختبار - Create Test Plan](./Create_Test_Plan.md).
 
 ---
 
